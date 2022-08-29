@@ -1,3 +1,6 @@
+![horoscope](https://user-images.githubusercontent.com/49106046/187196253-4c628535-7a2b-4fc9-8785-2be09fb22bc4.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
