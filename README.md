@@ -1,5 +1,6 @@
 ![horoscope](https://user-images.githubusercontent.com/49106046/187196253-4c628535-7a2b-4fc9-8785-2be09fb22bc4.PNG)
 
+![horoscope2](https://user-images.githubusercontent.com/49106046/187196397-a68847f2-ea53-4b42-9238-e78bca69a322.PNG)
 
 # Getting Started with Create React App
 
